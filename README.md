@@ -1,6 +1,6 @@
 # firstui
 
-A new Flutter project.
+Its my first flutter projrct, created by my learnig time(self),its on web view, its not completed, 
 
 ## Getting Started 
 
