@@ -4,7 +4,6 @@ import 'package:firstui/main.dart';
 import 'package:firstui/sign.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-
 import 'Shared.dart';
 
 class Home extends StatefulWidget {
