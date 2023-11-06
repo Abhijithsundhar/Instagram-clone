@@ -11,7 +11,7 @@ import 'package:image_picker/image_picker.dart';
 import 'Shared.dart';
 import 'firebase_constants.dart';
 import 'homePage.dart';
-import 'package:firebase_storage/firebase_storage.dart' as firebase_storage;
+import 'package:firebase_storage/firebase_storage.dart' as firebase_storage;  
 
 
 class Editprofile extends StatefulWidget {
