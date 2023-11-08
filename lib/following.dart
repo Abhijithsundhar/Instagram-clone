@@ -11,9 +11,6 @@ import 'firebase_constants.dart';
 import 'homePage.dart';
 import 'models/usersModel.dart';
 
-
-///myprofile.
-
 // var myid=FirebaseAuth.instance.currentUser!.uid;
 
 class Follw extends StatefulWidget {
