@@ -7,7 +7,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firstui/home.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:flutter/material.dart';
-
 import 'firebase_constants.dart';
 import 'homePage.dart';
 import 'models/postModel.dart';
