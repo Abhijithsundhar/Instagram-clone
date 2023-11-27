@@ -42,7 +42,6 @@ class Firebase {
             .doc(value.user!.uid)
             .set(user.toMap());
       }
-
       else{
         finduser(usernow);
         SharedPreferences share=await SharedPreferences.getInstance();
@@ -57,7 +56,6 @@ class Firebase {
         //     'abhi').update({
         //     'test':FieldValue.increment(1)});
       }
-
     });
   }
 
