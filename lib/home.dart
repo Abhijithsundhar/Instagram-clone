@@ -21,7 +21,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       body: Container(
         height:height*.5,
-        width:width*.5   ,
+        width:width*.5,
         color: Colors.red,
       ),
     );
