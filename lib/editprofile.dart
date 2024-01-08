@@ -16,7 +16,6 @@ import 'package:firebase_storage/firebase_storage.dart' as firebase_storage;
 
 class Editprofile extends StatefulWidget {
   const Editprofile({super.key});
-
   @override
   State<Editprofile> createState() => _EditprofileState();
 }
@@ -25,9 +24,6 @@ class _EditprofileState extends State<Editprofile> {
   final formkey = GlobalKey<FormState>();
   Uint8List? _image;
   var url;
-
-
-
   Future<void> selectImage() async {
     showDialog(
       context: context,
